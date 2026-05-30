@@ -15,3 +15,4 @@ wait $!
 echo "line number: $LINENO"
 echo "Script executed in $SECONDS seconds"
 echo "Random number: $RAMDOM"
+echo "Exit code oof previous command: $?"
